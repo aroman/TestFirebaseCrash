@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "243543468236",
+    "project_id": "fir-crash-test-95f45",
+    "storage_bucket": "fir-crash-test-95f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243543468236:android:bb29f8f6b2ab15e0017a69",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TestFirebaseCrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243543468236-5sacbatg2tq2grsk42l08bni9lsqjj9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36PbucoGNbZhR97Us90uSxi0_a2LTgfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243543468236-5sacbatg2tq2grsk42l08bni9lsqjj9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243543468236:android:831c40b2dd4a4e3e017a69",
+        "android_client_info": {
+          "package_name": "com.MagicCircle.FirebaseMutexCrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243543468236-5sacbatg2tq2grsk42l08bni9lsqjj9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36PbucoGNbZhR97Us90uSxi0_a2LTgfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243543468236-5sacbatg2tq2grsk42l08bni9lsqjj9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
